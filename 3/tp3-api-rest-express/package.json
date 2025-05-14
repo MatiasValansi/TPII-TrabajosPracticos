@@ -1,0 +1,37 @@
+{
+  "name": "tp3-api-rest-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "node --watch ./source/service.js",
+    "lint": "npx @biomejs/biome check --write ./source"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

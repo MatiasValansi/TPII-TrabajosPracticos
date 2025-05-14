@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4,
+    "titulo": "La Azucena Roja",
+    "autor": "Anatole France",
+    "año": 1894
+  },
+  {
+    "id": 5,
+    "titulo": "Crimen y Castigo",
+    "autor": "Fiódor Dostoyevski",
+    "año": 1866
+  },
+  {
+    "id": 6,
+    "titulo": "Las Aventuras de Robin Hood",
+    "autor": "Howard Pyle",
+    "año": 1883
+  },
+  {
+    "id": 3,
+    "titulo": "El Eternauta",
+    "autor": "Ricardo Darín",
+    "año": 1932
+  },
+  {
+    "id": 16,
+    "titulo": "Rosaura a las Diez",
+    "autor": "Marco Denevi",
+    "año": 1883
+  }
+]

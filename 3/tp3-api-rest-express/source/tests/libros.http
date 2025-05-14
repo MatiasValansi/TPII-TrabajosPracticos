@@ -1,0 +1,30 @@
+
+GET http://127.0.0.1:8080/libros
+
+###
+GET http://127.0.0.1:8080/libros/4
+###
+GET http://127.0.0.1:8080/libros/4
+###
+POST http://127.0.0.1:8080/libros/
+Content-Type: application/json
+
+{
+    "id": 16,
+    "titulo": "Las Aventuras de Robin Hood",
+    "autor": "Howard Pyle",
+    "año": 1883
+    
+}
+
+###
+DELETE http://127.0.0.1:8080/libros/2
+
+###
+PUT http://127.0.0.1:8080/libros/16
+Content-Type: application/json
+
+{    
+    "titulo": "Rosaura a las Diez",
+    "autor": "Marco Denevi"
+}
