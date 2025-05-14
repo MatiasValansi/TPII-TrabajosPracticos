@@ -1,0 +1,39 @@
+{
+	"contenidoStr": "{\n  \"name\": \"trabajopractico2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"license\": \"AGPL-version-3.0\",\n  \"private\": false,\n  \"engines\": {\n    \"node\": \">= 14.0.0\",\n    \"npm\": \">= 6.0.0\"\n  },\n  \"homepage\": \"\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"\"\n  },\n  \"bugs\": \"\",\n  \"keywords\": [],\n  \"author\": {\n    \"name\": \"\",\n    \"email\": \"\",\n    \"url\": \"\"\n  },\n  \"contributors\": [\n\n  ],\n  \"scripts\": {\n    \"dev\": \"\",\n    \"test\": \"\",\n    \"test:sync\": \"node ms.js\",\n    \"test:callback\": \"node mac.js\",\n    \"test:promise\": \"node maptc.js\",\n    \"test:async\": \"node mapaa.js\"\n  },\n  \"dependencies\": {\n\n  },\n  \"devDependencies\": {\n\n  }\n}\n",
+	"contenidoObj": {
+		"name": "trabajopractico2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"license": "AGPL-version-3.0",
+		"private": false,
+		"engines": {
+			"node": ">= 14.0.0",
+			"npm": ">= 6.0.0"
+		},
+		"homepage": "",
+		"repository": {
+			"type": "git",
+			"url": ""
+		},
+		"bugs": "",
+		"keywords": [],
+		"author": {
+			"name": "",
+			"email": "",
+			"url": ""
+		},
+		"contributors": [],
+		"scripts": {
+			"dev": "",
+			"test": "",
+			"test:sync": "node ms.js",
+			"test:callback": "node mac.js",
+			"test:promise": "node maptc.js",
+			"test:async": "node mapaa.js"
+		},
+		"dependencies": {},
+		"devDependencies": {}
+	},
+	"size": 660
+}
